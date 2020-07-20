@@ -4,11 +4,12 @@
  First of all 
  
  1) Download this project and open the termainal to the project folder
- 2) Use npm install in cmd terminal 
+ 2) Use `npm install` in cmd terminal 
+ 3) Use `npm start` to run App
 
 ## Scripts To Use
 
-npm install
+## `npm install`
 
 
 ### `npm start`
